@@ -1,0 +1,24 @@
+- create region in VoiceLink
+	- Region profile- container automático 
+	-  single prompt supress 1 
+	- sql (table sel_container_types --> containerTypeId –3, set promptOperatorForContainerId to 0) 
+
+	
+	 
+ 
+- Processo antes: 
+	Usar a task até pedir pra bipar crachá 
+	Pressionar pausa 
+ 
+- Processo durante: 
+	Colocar o eqpto no cliente 
+	Pedir nome e empresa 
+	Digitar nome e empresa na tela contesterForm.html 
+	Ensinar o que vai acontecer 
+	Pressionar pausa 
+	Pedir pra escanear seu crachá (ou uma etiqueta qualquer) 
+	Fazer os bipes 
+	Pressionar pausa 
+ 
+ 
+ 
